@@ -1,0 +1,23 @@
+{
+  "name": "githubfinderapp",
+  "version": "1.0.0",
+  "description": "Github username finder",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maitza/githubFinderApp.git"
+  },
+  "keywords": [
+    "github",
+    "finder"
+  ],
+  "author": "Mateusz Krztoń",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maitza/githubFinderApp/issues"
+  },
+  "homepage": "https://github.com/maitza/githubFinderApp#readme"
+}
